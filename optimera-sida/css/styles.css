@@ -55,7 +55,6 @@ header {
 .figure-img {
   display: block;
   width: 100%;
-  object: fit;
 }
 
 h2 {
